@@ -1,4 +1,4 @@
-# (C:\Users\cheek\OneDrive\Pictures\LinkedIn Banner.jpg)
+![Banner](C:\Users\cheek\OneDrive\Pictures\LinkedIn Banner.jpg)
 
 # Hi there 👋, I'm Hannah Hibble!
 
