@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 Here are some of my favorite projects that I'm currently working on:
 
 ### [Inkspiration]()
-![Inkspiration]()
+![Inkspiration](https://github.com/johndoe/awesome-project/blob/main/screenshot.png)
 Inkspiration is a fake tattoo shop website that I have had a lot of fun developing and working on.
 
 ## 🛠️ Technologies & Tools
