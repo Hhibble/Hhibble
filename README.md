@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Hannah Hibble!
 
-<!--
-**Hhibble/Hhibble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a fake Tattoo Shop Website!
+- 🌱 I’m will be learning JavaScript
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+Here are some of my favorite projects that I'm currently working on:
+
+### [Inkspiration]()
+![Inkspiration]()
+Inkspiration is a fake tattoo shop website that I have had a lot of fun developing and working on.
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+
+## 📈 GitHub Stats
+
+![Hannah Hibble's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhibble&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/hannah-hibble/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/tattookitty92)
